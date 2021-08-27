@@ -17,5 +17,3 @@ Sub-Menu 2: Stack Using Linked List
 2. Pop
 3. Display
 4. Back
-Notes:
-➢The Program Code must be compiled using gcc
